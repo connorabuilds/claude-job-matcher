@@ -15,6 +15,10 @@ Give Claude your resume once. Every weekday morning it finds fresh openings that
 
 It never applies, signs in to job sites, or contacts anyone. You decide what to apply to.
 
+## Make it yours
+
+Use this however it helps you. Change the scoring, add job boards, rip out what you don't need, port it to another AI tool, build something bigger on top of it. You don't need to ask or credit me. It's a starting point, and I'd rather it help someone land a job than sit here untouched.
+
 ## What you need
 
 - A paid Claude plan that includes scheduled tasks (Pro, Max, Ultra, Team or Enterprise).
