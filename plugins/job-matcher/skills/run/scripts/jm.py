@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""job-matcher helper (Python 3.9+, standard library only).
+"""job-matcher helper (Python 3.10+, standard library only).
 
 Deterministic plumbing for the job-matcher plugin. Claude does the reading and
 scoring; this script does the parts that should never vary between runs:
