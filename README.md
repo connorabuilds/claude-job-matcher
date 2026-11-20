@@ -24,6 +24,8 @@ Use this however it helps you. Change the scoring, add job boards, rip out what 
 - A paid Claude plan that includes scheduled tasks (Pro, Max, Ultra, Team or Enterprise).
 - That's it. No other accounts, API keys or installs.
 
+Using another AI tool (Grok, Gemini, ChatGPT and so on)? Use whatever its equivalent plan is: one that can run scheduled or automated tasks, browse the web and run code. You'll need to adapt a few pieces first; see [Using it with other AI tools](#using-it-with-other-ai-tools).
+
 ## Install
 
 1. In Claude (web or desktop), open **Customize**, then **Plugins**.
