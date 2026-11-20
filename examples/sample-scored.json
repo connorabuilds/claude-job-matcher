@@ -1,0 +1,211 @@
+{
+  "run": {
+    "candidates": 27,
+    "notes": []
+  },
+  "discovered_boards": {},
+  "roles": [
+    {
+      "company": "Northwind Grocers",
+      "title": "Product Manager, Subscriptions",
+      "url": "https://example.com/jobs/northwind-pm",
+      "location": "Chicago, IL",
+      "workplace": "Hybrid",
+      "posted": "2026-01-14",
+      "salary": "$135k-$160k",
+      "source": "greenhouse",
+      "score": 9,
+      "breakdown": [
+        {
+          "points": 3,
+          "reason": "core fit: PM for a subscription product",
+          "quote": "own the roadmap for our grocery subscription"
+        },
+        {
+          "points": 1,
+          "reason": "SQL",
+          "quote": "comfortable pulling your own data in SQL"
+        },
+        {
+          "points": 1,
+          "reason": "A/B testing",
+          "quote": "design and read A/B tests"
+        },
+        {
+          "points": 1,
+          "reason": "Looker",
+          "quote": "dashboards in Looker"
+        },
+        {
+          "points": 1,
+          "reason": "domain: subscriptions",
+          "quote": "subscription and retention"
+        },
+        {
+          "points": 1,
+          "reason": "level fits",
+          "quote": "2+ years of product experience"
+        },
+        {
+          "points": 2,
+          "reason": "hybrid in Chicago (top choice)",
+          "quote": "hybrid, 2 days a week in our Chicago office"
+        },
+        {
+          "points": -1,
+          "reason": "gap: pricing experiments",
+          "quote": "experience running pricing experiments"
+        }
+      ],
+      "flags": [],
+      "fit_note": "Strong match: subscription analytics and A/B testing line up with the resume almost line for line. The one gap is pricing experiments.",
+      "resume_angle": "The churn analysis that fed the renewal-flow redesign.",
+      "unconfirmed": [
+        "travel"
+      ],
+      "confidence": "high",
+      "company_note": "Regional grocery delivery company, about 800 people, no layoffs found in the last year."
+    },
+    {
+      "company": "Lakeshore Health",
+      "title": "Associate Product Manager",
+      "url": "https://example.com/jobs/lakeshore-apm",
+      "location": "Remote - United States",
+      "workplace": "Remote",
+      "posted": "2026-01-13",
+      "salary": "$110k-$125k",
+      "source": "ashby",
+      "score": 7,
+      "breakdown": [
+        {
+          "points": 3,
+          "reason": "core fit: APM",
+          "quote": "Associate Product Manager on the patient app"
+        },
+        {
+          "points": 1,
+          "reason": "SQL",
+          "quote": "SQL a plus"
+        },
+        {
+          "points": 1,
+          "reason": "A/B testing",
+          "quote": "run experiments with the growth team"
+        },
+        {
+          "points": 1,
+          "reason": "user interviews",
+          "quote": "run user interviews weekly"
+        },
+        {
+          "points": 1,
+          "reason": "level fits",
+          "quote": "1-3 years in product or analytics"
+        },
+        {
+          "points": 1,
+          "reason": "remote (acceptable)",
+          "quote": "fully remote, US"
+        },
+        {
+          "points": -1,
+          "reason": "gap: healthcare",
+          "quote": "experience in healthcare required"
+        },
+        {
+          "points": "cap 7",
+          "reason": "core domain gap: healthcare",
+          "quote": ""
+        }
+      ],
+      "flags": [],
+      "fit_note": "Gap: healthcare. Good level fit and the skills match, but the posting asks for healthcare experience the resume does not show.",
+      "resume_angle": "The user-research program and the checkout experiment results.",
+      "unconfirmed": [
+        "degree wording"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "company": "Brightline Commerce",
+      "title": "Product Analyst, Marketplace",
+      "url": "https://example.com/jobs/brightline-analyst",
+      "location": "Chicago, IL",
+      "workplace": "Onsite",
+      "posted": "2026-01-12",
+      "salary": null,
+      "source": "lever",
+      "score": 6,
+      "breakdown": [
+        {
+          "points": 3,
+          "reason": "core fit: product analyst",
+          "quote": "Product Analyst for our seller marketplace"
+        },
+        {
+          "points": 1,
+          "reason": "SQL",
+          "quote": "advanced SQL"
+        },
+        {
+          "points": 1,
+          "reason": "domain: marketplaces",
+          "quote": "two-sided marketplace"
+        },
+        {
+          "points": 1,
+          "reason": "onsite in Chicago (acceptable)",
+          "quote": "in office 5 days in Chicago"
+        },
+        {
+          "points": 1,
+          "reason": "experiment design",
+          "quote": "own experiment design"
+        },
+        {
+          "points": -2,
+          "reason": "process: recorded video interview",
+          "quote": "a recorded video interview as the first step"
+        },
+        {
+          "points": 1,
+          "reason": "Python",
+          "quote": "Python for analysis"
+        }
+      ],
+      "flags": [
+        "Process: recorded video interview"
+      ],
+      "fit_note": "Solid analyst fit with marketplace experience, held back by a recorded video interview step and five office days.",
+      "resume_angle": "The seller-side marketplace metrics work.",
+      "unconfirmed": [],
+      "confidence": "high"
+    },
+    {
+      "company": "Granite Systems",
+      "title": "Product Manager, Data Platform",
+      "url": "https://example.com/jobs/granite",
+      "score": 4,
+      "breakdown": [
+        {
+          "points": "cap 5",
+          "reason": "years required",
+          "quote": "6+ years of product management required"
+        }
+      ]
+    },
+    {
+      "company": "Cobalt Mobility",
+      "title": "Product Manager",
+      "url": "https://example.com/jobs/cobalt",
+      "score": 1,
+      "breakdown": [
+        {
+          "points": "knockout",
+          "reason": "state not eligible",
+          "quote": "we cannot hire in IL, NY or CA"
+        }
+      ]
+    }
+  ]
+}

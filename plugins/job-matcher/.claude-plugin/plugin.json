@@ -1,0 +1,21 @@
+{
+  "name": "job-matcher",
+  "version": "1.0.0",
+  "description": "Upload your resume once and get a dashboard of fresh, relevant job openings every weekday, each scored 1 to 10 against your resume with the evidence behind every point.",
+  "author": {
+    "name": "Connor Allen"
+  },
+  "homepage": "https://github.com/connorabuilds/claude-job-matcher",
+  "repository": "https://github.com/connorabuilds/claude-job-matcher",
+  "license": "MIT",
+  "keywords": [
+    "jobs",
+    "job search",
+    "resume",
+    "career",
+    "greenhouse",
+    "ashby",
+    "lever",
+    "scheduled"
+  ]
+}

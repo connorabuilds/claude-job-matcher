@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "display_name": "Sam",
+  "headline": "Product analyst moving into product management. Fictional example profile.",
+  "target_titles": ["Product Manager", "Associate Product Manager", "Product Analyst", "Product Operations"],
+  "seniority": "mid",
+  "years_experience_total": 6,
+  "years_in_target_role": 2,
+  "education": {"highest_degree": "bachelors", "field": "Economics"},
+  "skills": ["SQL", "Looker", "A/B testing", "Python", "roadmapping", "user interviews", "Jira"],
+  "domains": ["e-commerce", "subscriptions", "marketplaces"],
+  "licenses_clearances": [],
+  "has_managed_people": false,
+  "work_authorization": "US citizen",
+  "locations": {
+    "home": "Chicago, IL",
+    "country": "United States",
+    "home_state": "IL",
+    "places": [
+      {"name": "Chicago, IL", "aliases": ["chicago", "evanston", "oak brook"], "modes": ["onsite", "hybrid", "remote"]}
+    ],
+    "remote_ok": true,
+    "relocate_to": []
+  },
+  "preferences": {
+    "work_modes_ranked": ["hybrid", "remote", "onsite"],
+    "avoid": ["recorded video interviews"],
+    "notes": "Prefers consumer products."
+  },
+  "excluded_companies": [],
+  "filters": {
+    "title_include": ["product manager", "associate product manager", "product analyst", "product operations", "product ops", "product owner"],
+    "title_exclude": ["staff", "principal", "director", "head of", "vp", "vice president", "chief", "group product", "lead product", "intern"]
+  },
+  "min_score": 6,
+  "posted_within_days": 14,
+  "schedule": {"cron": "CRON_TZ=America/Chicago 41 7 * * 1-5", "label": "Weekdays around 7:40 AM"},
+  "dashboard": {"slug": null}
+}
