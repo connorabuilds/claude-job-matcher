@@ -83,6 +83,22 @@ examples/                            fictional profile, scored roles and dashboa
 tests/                               python3 -m unittest discover tests
 ```
 
+## Using it with other AI tools
+
+This is built for Claude, but you're welcome to fork it and adapt it to your AI tool of choice. The MIT license allows it.
+
+What carries over as is:
+
+- The three skills use the open Agent Skills format (`SKILL.md`), which many agent tools now read.
+- `jm.py` is plain Python with no dependencies.
+- The scoring rubric (`skills/run/references/scoring.md`) and the profile format are plain markdown and JSON.
+
+What you'd need to replace:
+
+- **Scheduling.** Setup creates a Claude scheduled task. Elsewhere, use your tool's scheduler or a cron job that runs your agent headless.
+- **Memory and dashboard.** These live in a Claude artifact. `jm.py` already reads and writes memory from the dashboard HTML file, so a local file works.
+- **Tool names.** The skills mention Claude's question, web search, page fetch and subagent tools; swap in your tool's equivalents.
+
 ## Contributing
 
 Issues and pull requests are welcome. Run the tests before sending a change:
